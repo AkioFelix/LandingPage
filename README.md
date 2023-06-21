@@ -19,7 +19,10 @@
   - [Purchasing Dashboard](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Sales Dashboard]
 
-
+<b> 📜 Certificates:</b>
+  - [Google Data Analytics]
+  - Project Mananager Professional PMI
+  
 <h2> 🤳 Connect with me:</h2>
 
 
